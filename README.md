@@ -16,7 +16,7 @@
 sudo apt -y update && sudo apt -y upgrade
 sudo apt -y dist-upgrade
 sudo apt -y install git terminator openssh-client openssh-server gitk tree
-sudo apt -y install build-essential python-dev python-setuptools python-pip
+sudo apt -y install build-essential python-dev python-setuptools python-pip python3-pip
 sudo apt -y install libncursesw5-dev libgdbm-dev libc6-dev
 sudo apt -y install zlib1g-dev libsqlite3-dev tk-dev
 sudo apt -y install libssl-dev openssl
